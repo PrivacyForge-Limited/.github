@@ -5,10 +5,10 @@ We specialise in delivering bespoke privacy solutions that help software enginee
 
 Our solutions include:
 
-✏️ User stories, Technical Design, Mockups and Prototypes
+✏️ User stories; Technical Designs; Mockups; Prototypes
 
-⚙️ Applications, Features, Frameworks and Libraries, Tools and Plugins
+⚙️ Applications; Features; Frameworks and Libraries; Tools and Plugins
 
-📋 Privacy Reviews, Data Protection Impact Assessments, Data Maps and Code Audits
+📋 Privacy Reviews; Data Protection Impact Assessments; Data Maps; Code Audits
 
 Find out more by visiting our [web site](https://www.privacyforge.com) and our company pages on [YouTube](https://www.youtube.com/@privacyforge-limited) and [LinkedIn](https://www.linkedin.com/company/privacyforge-limited).
